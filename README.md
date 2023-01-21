@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Creating a game called Tic-Tack-Toe using cpp
+Creating a game called Tic-Tac-Toe using cpp
 
 Tic-Tac-Toe is probably a game you are familiar with. It's a pretty easy game, right? The lion's share of people believe that. Tic-Tac-Toe, however, isn't as simple as you might think if you give it some serious thought.
 
